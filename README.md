@@ -10,3 +10,5 @@ Y para **ejecutarlo**:
 
 Programa "hola mundo" en Java
 🗿
+## Aprendizaje de Java
+Te recomiendo el libro [Aprende Java con Ejercicios] (https://learnpub.com/aprendejava) 😉
