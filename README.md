@@ -1,7 +1,7 @@
 # hola-mundo-en-java
-##Descripción
+## Descripción
 El programa
-##Compilación y ejecución del programa
+## Compilación y ejecución del programa
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 ```console
 javac HolaMundo.java
